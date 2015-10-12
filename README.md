@@ -1,3 +1,4 @@
+* #[Talk is cheap, show you the code](https://github.com/gxzty/path_of_C)
 
 * #[自我简述](#1)
 
