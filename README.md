@@ -1,4 +1,4 @@
-* #[Talk is cheap, show you the code（学习记录）](https://github.com/gxzty/path_of_C)
+* #[Talk is cheap, show you the code（独立开发的一款游戏）](https://github.com/gxzty/Round-MyFirstGame-/)
 
 * ###[我的书单(未完待续)](#2)
 
